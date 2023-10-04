@@ -6,11 +6,11 @@ authors = ["Roman <Tesmail@i.ua>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-flask = "^3.0.0"
-datetime = "^5.2"
-addressbook = "^1.0.1"
-adc = "^0.0.3"
+python = "3.11.6"
+flask = "3.0.0"
+datetime = "5.2"
+addressbook = "1.0.1"
+adc = "0.0.3"
 
 
 [build-system]
